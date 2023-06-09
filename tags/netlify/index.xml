@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Netlify on Chepei Ting&#39;s Blog WWWWWWWWW</title>
-    <link>https://lightbi-hugo-theme.netlify.app/tags/netlify/</link>
-    <description>Recent content in Netlify on Chepei Ting&#39;s Blog WWWWWWWWW</description>
+    <title>Netlify on Chepei Ting&#39;s Blog</title>
+    <link>https://cpthub.xyz/tags/netlify/</link>
+    <description>Recent content in Netlify on Chepei Ting&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>sample@gmail.com (Bino Kochumol Varghese)</managingEditor>
-    <webMaster>sample@gmail.com (Bino Kochumol Varghese)</webMaster>
-    <lastBuildDate>Sat, 04 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://lightbi-hugo-theme.netlify.app/tags/netlify/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>perryting0217@gmail.com (Chepei Ting)</managingEditor>
+    <webMaster>perryting0217@gmail.com (Chepei Ting)</webMaster>
+    <lastBuildDate>Sat, 04 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cpthub.xyz/tags/netlify/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Host in Netlify</title>
-      <link>https://lightbi-hugo-theme.netlify.app/post/2020/jan/netlify-conf/</link>
+      <link>https://cpthub.xyz/post/2020/jan/netlify-conf/</link>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-      <author>sample@gmail.com (Bino Kochumol Varghese)</author>
-      <guid>https://lightbi-hugo-theme.netlify.app/post/2020/jan/netlify-conf/</guid>
+      <author>perryting0217@gmail.com (Chepei Ting)</author>
+      <guid>https://cpthub.xyz/post/2020/jan/netlify-conf/</guid>
       <description>You can host your static website wth zero cost in Netlify.
 Add the below netlify.toml in the root folder.
 [build] publish = &amp;quot;public&amp;quot; command = &amp;quot;hugo --gc --minify&amp;quot; [context.production.environment] HUGO_VERSION = &amp;quot;0.82.0&amp;quot; HUGO_ENV = &amp;quot;production&amp;quot; HUGO_ENABLEGITINFO = &amp;quot;true&amp;quot; [context.split1] command = &amp;quot;hugo --gc --minify --enableGitInfo&amp;quot; [context.split1.environment] HUGO_VERSION = &amp;quot;0.82.0&amp;quot; HUGO_ENV = &amp;quot;production&amp;quot; [context.deploy-preview] command = &amp;quot;hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL&amp;quot; [context.deploy-preview.environment] HUGO_VERSION = &amp;quot;0.82.0&amp;quot; [context.branch-deploy] command = &amp;quot;hugo -b $DEPLOY_PRIME_URL&amp;quot; [context.</description>
