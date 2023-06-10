@@ -1,116 +1,199 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chepei Ting&#39;s Blog</title>
-    <link>https://cpthub.xyz/</link>
-    <description>Recent content on Chepei Ting&#39;s Blog</description>
+    <title>My blog</title>
+    <link>https://example.com/</link>
+    <description>Recent content on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <managingEditor>perryting0217@gmail.com (Chepei Ting)</managingEditor>
-    <webMaster>perryting0217@gmail.com (Chepei Ting)</webMaster>
-    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cpthub.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to use this Hugo theme ?</title>
-      <link>https://cpthub.xyz/post/2020/jan/use-this-theme/</link>
-      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
-      <author>perryting0217@gmail.com (Chepei Ting)</author>
-      <guid>https://cpthub.xyz/post/2020/jan/use-this-theme/</guid>
-      <description>After downloding the theme, uzip the file and go to the &amp;rsquo;lightbi-hugo-master&amp;rsquo; folder. Open the folder in you editor and run the hugo build command as below.
-hugo It will create a folder named &amp;lsquo;public&amp;rsquo; and in the same you can find the website created by Hugo from the contents from &amp;lsquo;content&amp;rsquo; folder and the theme. To check the website you can run the below command,
-hugo server In the command prompt you can see that your website has started to build and it will normally available at &amp;lsquo;http://localhost:1313/&amp;rsquo;.</description>
+      <title>部落格創立</title>
+      <link>https://example.com/post/blog-began/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/blog-began/</guid>
+      
+        <description>The notice shortcode supports three different types of disclaimers. These are as following:</description>
+      
     </item>
     
     <item>
-      <title>Build a Hugo Blog</title>
-      <link>https://cpthub.xyz/post/2020/jan/build-hugo-blog/</link>
-      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
-      <author>perryting0217@gmail.com (Chepei Ting)</author>
-      <guid>https://cpthub.xyz/post/2020/jan/build-hugo-blog/</guid>
-      <description>Hugo? It’s a fast and static website generator written in the Go language. Websites built with Hugo can be hosted anywhere from GitHub Pages to Amazon S3 without any database or other language dependencies.
-First I started to use Hugo is for my Malayalam write up a blog wizbi tales (Malayalam is a language spoken in Kerala, India), After the initial learning curves, I loved it for simplicity and performance. And when I started this blog itself I didn’t think twice.</description>
+      <title>Emoji Support</title>
+      <link>https://example.com/post/emoji-support/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/emoji-support/</guid>
+      
+        <description>Guide to emoji usage in Hugo</description>
+      
     </item>
     
     <item>
-      <title>Note 1</title>
-      <link>https://cpthub.xyz/notes/2020/change/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <author>perryting0217@gmail.com (Chepei Ting)</author>
-      <guid>https://cpthub.xyz/notes/2020/change/</guid>
-      <description>Journaling is not just a little thing you do to pass the time, to write down your memories—though it can be—it’s a strategy that has helped brilliant, powerful and wise people become better at what they do.</description>
+      <title>The Figure Shortcode</title>
+      <link>https://example.com/post/figure-shortcode/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/figure-shortcode/</guid>
+      
+        <description>Hugo has figure shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images.</description>
+      
     </item>
     
     <item>
-      <title>Note 2</title>
-      <link>https://cpthub.xyz/notes/2020/change2/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <author>perryting0217@gmail.com (Chepei Ting)</author>
-      <guid>https://cpthub.xyz/notes/2020/change2/</guid>
-      <description>Journaling is not just a little thing you do to pass the time, to write down your memories—though it can be—it’s a strategy that has helped brilliant, powerful and wise people become better at what they do.</description>
+      <title>Guide to Thumbnails in Hugo</title>
+      <link>https://example.com/post/image-test/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/image-test/</guid>
+      
+        <description>Guide to Thumbnails in Hugo</description>
+      
     </item>
     
     <item>
-      <title>Note 3</title>
-      <link>https://cpthub.xyz/notes/2020/change3/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <author>perryting0217@gmail.com (Chepei Ting)</author>
-      <guid>https://cpthub.xyz/notes/2020/change3/</guid>
-      <description>Journaling is not just a little thing you do to pass the time, to write down your memories—though it can be—it’s a strategy that has helped brilliant, powerful and wise people become better at what they do.</description>
+      <title>Markdown Syntax Guide</title>
+      <link>https://example.com/post/markdown-syntax/</link>
+      <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/markdown-syntax/</guid>
+      
+        <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+      
     </item>
     
     <item>
-      <title>What is Markdown ?</title>
-      <link>https://cpthub.xyz/post/2020/jan/markdown/</link>
-      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-      <author>perryting0217@gmail.com (Chepei Ting)</author>
-      <guid>https://cpthub.xyz/post/2020/jan/markdown/</guid>
-      <description>What is Markdown?
-The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.
-Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
-Using Markdown is different than using a WYSIWYG editor.</description>
+      <title>Math Typesetting</title>
+      <link>https://example.com/post/math-typesetting/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/math-typesetting/</guid>
+      
+        <description>A brief guide to setup KaTeX</description>
+      
     </item>
     
     <item>
-      <title>Basic Syntax</title>
-      <link>https://cpthub.xyz/post/2020/jan/syntax/</link>
-      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
-      <author>perryting0217@gmail.com (Chepei Ting)</author>
-      <guid>https://cpthub.xyz/post/2020/jan/syntax/</guid>
-      <description>Headings
-To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (h3), use three number signs (e.g., ### My Header). Heading level 1 Heading level 2 Heading level 3 Heading level 4 Heading level 5 Heading level 6 Paragraphs
-To create paragraphs, use a blank line to separate one or more lines of text.</description>
+      <title>Placeholder Text</title>
+      <link>https://example.com/post/placeholder-text/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/placeholder-text/</guid>
+      
+        <description>Lorem Ipsum Dolor Si Amet</description>
+      
+    </item>
+    
+    <item>
+      <title>Redirect</title>
+      <link>https://example.com/post/redirect/</link>
+      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/redirect/</guid>
+      
+        <description>Usage of redirectUrl</description>
+      
     </item>
     
     <item>
       <title>Rich Content</title>
-      <link>https://cpthub.xyz/post/2020/jan/rich-content/</link>
-      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      <author>perryting0217@gmail.com (Chepei Ting)</author>
-      <guid>https://cpthub.xyz/post/2020/jan/rich-content/</guid>
-      <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
-YouTube Privacy Enhanced Shortcode The youtube shortcode embeds a responsive video player for YouTube videos. Only the ID of the video is required, e.g.:
-Twitter You want to include a single tweet into your blog post? Everything you need is the URL of the tweet:</description>
+      <link>https://example.com/post/rich-content/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/rich-content/</guid>
+      
+        <description>A brief description of Hugo Shortcodes</description>
+      
     </item>
     
     <item>
-      <title>Host in Netlify</title>
-      <link>https://cpthub.xyz/post/2020/jan/netlify-conf/</link>
-      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-      <author>perryting0217@gmail.com (Chepei Ting)</author>
-      <guid>https://cpthub.xyz/post/2020/jan/netlify-conf/</guid>
-      <description>You can host your static website wth zero cost in Netlify.
-Add the below netlify.toml in the root folder.
-[build] publish = &amp;quot;public&amp;quot; command = &amp;quot;hugo --gc --minify&amp;quot; [context.production.environment] HUGO_VERSION = &amp;quot;0.82.0&amp;quot; HUGO_ENV = &amp;quot;production&amp;quot; HUGO_ENABLEGITINFO = &amp;quot;true&amp;quot; [context.split1] command = &amp;quot;hugo --gc --minify --enableGitInfo&amp;quot; [context.split1.environment] HUGO_VERSION = &amp;quot;0.82.0&amp;quot; HUGO_ENV = &amp;quot;production&amp;quot; [context.deploy-preview] command = &amp;quot;hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL&amp;quot; [context.deploy-preview.environment] HUGO_VERSION = &amp;quot;0.82.0&amp;quot; [context.branch-deploy] command = &amp;quot;hugo -b $DEPLOY_PRIME_URL&amp;quot; [context.</description>
+      <title>Awards</title>
+      <link>https://example.com/awards/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/awards/</guid>
+      
+        <description>Hugo Awards, an annual literary award for the best science fiction or fantasy works</description>
+      
     </item>
     
     <item>
-      <title>Who am I ?!</title>
-      <link>https://cpthub.xyz/post/2020/jan/who-am-i/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <author>perryting0217@gmail.com (Chepei Ting)</author>
-      <guid>https://cpthub.xyz/post/2020/jan/who-am-i/</guid>
-      <description>Who am I ?! This is the most asked question in my life. Yet no clear answer has yet been found.
-As a child, the answer to this question was simple. Say my name to the question of who. Aha ..! Simple and beautiful. In that answer, parents and siblings in adolescence. I thought to myself that the answer was too clear.
-When I started asking myself this question at a young age when I was beginning to recognize many things, I began to feel that the answer was becoming less clear.</description>
+      <title>Certifications</title>
+      <link>https://example.com/certifications/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/certifications/</guid>
+      
+        <description>Hugo Certifications</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/archives/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact/</guid>
+      
+        <description>Contact Page</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      
+        <description>Hugo, the world&#39;s fastest framework for building websites</description>
+      
+    </item>
+    
+    <item>
+      <title>Series Part 1</title>
+      <link>https://example.com/post/series-part-1/</link>
+      <pubDate>Thu, 02 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/series-part-1/</guid>
+      
+        <description>A brief guide to how to setup series part 1</description>
+      
+    </item>
+    
+    <item>
+      <title>誕生日</title>
+      <link>https://example.com/post/1996-02-17-birthday/</link>
+      <pubDate>Sat, 17 Feb 1996 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/1996-02-17-birthday/</guid>
+      
+        <description>A brief guide to how to setup series part 2</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/imprint/</guid>
+      
+        <description>Imprint Graduated from plant science graduate institute
+Chepei Ting
+NTUH research assistant</description>
+      
     </item>
     
   </channel>
