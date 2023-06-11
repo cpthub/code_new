@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>baseball on My blog</title>
+    <link>https://example.com/tags/baseball/</link>
+    <description>Recent content in baseball on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/baseball/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>閒聊棒球-跟棒球有關的英文單字</title>
+      <link>https://example.com/post/2023-06-11-%E8%B7%9F%E6%A3%92%E7%90%83%E6%9C%89%E9%97%9C%E7%9A%84%E8%A9%9E%E5%BD%99/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/2023-06-11-%E8%B7%9F%E6%A3%92%E7%90%83%E6%9C%89%E9%97%9C%E7%9A%84%E8%A9%9E%E5%BD%99/</guid>
+      
+        <description>跟棒球有關的英文單字</description>
+      
+    </item>
+    
+    <item>
+      <title>部落格創立</title>
+      <link>https://example.com/post/blog-began/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/blog-began/</guid>
+      
+        <description>The notice shortcode supports three different types of disclaimers. These are as following:</description>
+      
+    </item>
+    
+  </channel>
+</rss>
