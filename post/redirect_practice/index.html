@@ -10,7 +10,7 @@
   <title>
     
       
-        Contact |
+        Redirect |
       Chepei Ting
 
   </title>
@@ -20,8 +20,10 @@
   <meta name="author" content="Chepei Ting" />
   <meta
     name="description"
-    content="Contact Page"
+    content="Usage of redirectUrl"
   />
+  
+    <meta http-equiv="refresh" content="1; url=http://localhost:1313/post/2023-06-11-%E8%B7%9F%E6%A3%92%E7%90%83%E6%9C%89%E9%97%9C%E7%9A%84%E8%A9%9E%E5%BD%99/" />
   
   
     
@@ -77,12 +79,20 @@
     type="text/css"
   />
   
+    
+    <link
+      rel="stylesheet"
+      href="/css/spinner.min.64996a227999f72d5b9b9a43df0b8d83bc0ac5cfd7c6e452db5fb2221af08a1f.css"
+      integrity="sha256-ZJlqInmZ9y1bm5pD3wuNg7wKxc/XxuRS21&#43;yIhrwih8="
+      crossorigin="anonymous"
+      type="text/css"
+    />
   <link rel="shortcut icon" href="/favicons/favicon.ico" type="image/x-icon" />
   <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png" />
 
-  <link rel="canonical" href="https://example.com/contact/" />
+  <link rel="canonical" href="https://example.com/post/redirect_practice/" />
 
   
   
@@ -113,18 +123,18 @@
   <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://example.com/images/landscape.jpg"/>
 
-<meta name="twitter:title" content="Contact"/>
-<meta name="twitter:description" content="Contact Page"/>
+<meta name="twitter:title" content="Redirect"/>
+<meta name="twitter:description" content="Usage of redirectUrl"/>
 
 
 
   
-  <meta property="og:title" content="Contact" />
-<meta property="og:description" content="Contact Page" />
+  <meta property="og:title" content="Redirect" />
+<meta property="og:description" content="Usage of redirectUrl" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://example.com/contact/" /><meta property="og:image" content="https://example.com/images/landscape.jpg"/><meta property="article:section" content="" />
-<meta property="article:published_time" content="2019-03-08T00:00:00+00:00" />
-<meta property="article:modified_time" content="2019-03-08T00:00:00+00:00" /><meta property="og:site_name" content="ChePei Ting" />
+<meta property="og:url" content="https://example.com/post/redirect_practice/" /><meta property="og:image" content="https://example.com/images/landscape.jpg"/><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2023-06-11T00:00:00+00:00" />
+<meta property="article:modified_time" content="2023-06-11T00:00:00+00:00" /><meta property="og:site_name" content="ChePei Ting" />
 
 
 
@@ -137,12 +147,12 @@
     {
         "@context": "http://schema.org",
         "@type": "BlogPosting",
-        "articleSection": "",
-        "name": "Contact",
-        "headline": "Contact",
+        "articleSection": "post",
+        "name": "Redirect",
+        "headline": "Redirect",
         "alternativeHeadline": "",
         "description": "
-      Contact Page
+      Usage of redirectUrl
 
 
     ",
@@ -150,7 +160,7 @@
         "isFamilyFriendly": "true",
         "mainEntityOfPage": {
             "@type": "WebPage",
-            "@id": "https:\/\/example.com\/contact\/"
+            "@id": "https:\/\/example.com\/post\/redirect_practice\/"
         },
         "author" : {
             "@type": "Person",
@@ -168,10 +178,10 @@
             "@type": "Person",
             "name": "Chepei Ting"
         },
-        "copyrightYear" : "2019",
-        "dateCreated": "2019-03-08T00:00:00.00Z",
-        "datePublished": "2019-03-08T00:00:00.00Z",
-        "dateModified": "2019-03-08T00:00:00.00Z",
+        "copyrightYear" : "2023",
+        "dateCreated": "2023-06-11T00:00:00.00Z",
+        "datePublished": "2023-06-11T00:00:00.00Z",
+        "dateModified": "2023-06-11T00:00:00.00Z",
         "publisher":{
             "@type":"Organization",
             "name": "Chepei Ting",
@@ -193,10 +203,21 @@
       ]
 
     ,
-        "url" : "https:\/\/example.com\/contact\/",
-        "wordCount" : "0",
+        "url" : "https:\/\/example.com\/post\/redirect_practice\/",
+        "wordCount" : "5",
         "genre" : [ ],
-        "keywords" : [ ]
+        "keywords" : [ 
+      
+      "redirect"
+
+    
+      
+        ,
+
+      
+      "redirectUrl"
+
+    ]
     }
   </script>
 
@@ -376,7 +397,7 @@
          
       <li class="nav__list-item">
         
-        <a  class="nav__link--active"  href="/contact/"  title="">Contact</a>
+        <a  href="/contact/"  title="">Contact</a>
       </li>
        
     </ul>
@@ -389,76 +410,33 @@
     ">
   
   <div class="post__content">
-    <h1>Contact</h1>
-    <div class="contact-form">
-  <form class="form-style" method="POST" action="" data-toggle="validator">
-    <ul>
-      <li>
-        <label for="username">Name</label>
-        <input class="field-style field-full" type="text" name="username" id="username" placeholder="Name" required>
+    <h1>Redirect</h1>
+    
+    <ul class="post__meta">
+      <li class="post__meta-item">
+        <em class="fas fa-calendar-day post__meta-icon"></em>
+        <span class="post__meta-text">  11/6/2023  
+        </span>
       </li>
-      <li>
-        <label for="email">Email</label>
-        <input class="field-style field-full" type="email" id="email" name="email" placeholder="Email" required>
-      </li>
-      <li>
-        <label for="message">Message</label>
-        <textarea class="field-style" name="message" id="message" rows="6" placeholder="Message"></textarea>
-      </li>
-      <li>
-        <div class="g-recaptcha" data-sitekey=""></div>
-      </li>
-      <li>
-        <input class="field-style" type="submit" value="Send" />
-      </li>
-      <li>
-        <input type="text" name="_gotcha" style="display:none" />
+      <li class="post__meta-item">
+        <em class="fas fa-stopwatch post__meta-icon"></em>
+        <span class="post__meta-text">One-minute read</span>
       </li>
     </ul>
-  </form>
+    <p>Forwarding to <a href="https://gohugo.io">gohugo</a> using <code>redirectUrl</code></p>
+<div class="sk-wrapper">
+  <div class="sk-fold">
+    <div class="sk-fold-cube"></div>
+    <div class="sk-fold-cube"></div>
+    <div class="sk-fold-cube"></div>
+    <div class="sk-fold-cube"></div>
+  </div>
 </div>
-
-<span>
-  <iframe width="295" height="167" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRf5OMadCognq82nEphYVekGO14s381HpE4BdxuFQw9aXCrm9IS_d56rY3X4h6KTnFXk1fmvAW3ipWq/pubchart?oid=114485632&amp;format=interactive"></iframe>
-</span>
-<span>
-  <iframe width="295" height="167" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRf5OMadCognq82nEphYVekGO14s381HpE4BdxuFQw9aXCrm9IS_d56rY3X4h6KTnFXk1fmvAW3ipWq/pubchart?oid=453583324&amp;format=interactive"></iframe>
-</span>
-<span>
-  <iframe width="295" height="167" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRf5OMadCognq82nEphYVekGO14s381HpE4BdxuFQw9aXCrm9IS_d56rY3X4h6KTnFXk1fmvAW3ipWq/pubchart?oid=229238020&amp;format=interactive"></iframe>
-</span>
-<span>
-  <iframe width="295" height="167" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRf5OMadCognq82nEphYVekGO14s381HpE4BdxuFQw9aXCrm9IS_d56rY3X4h6KTnFXk1fmvAW3ipWq/pubchart?oid=1116627453&amp;format=interactive"></iframe>
-</span>
-<span>
-  <iframe width="295" height="167" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRf5OMadCognq82nEphYVekGO14s381HpE4BdxuFQw9aXCrm9IS_d56rY3X4h6KTnFXk1fmvAW3ipWq/pubchart?oid=1542505060&amp;format=interactive"></iframe>
-</span>
-<span>
-  <iframe width="295" height="167" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRf5OMadCognq82nEphYVekGO14s381HpE4BdxuFQw9aXCrm9IS_d56rY3X4h6KTnFXk1fmvAW3ipWq/pubchart?oid=1829936485&amp;format=interactive"></iframe>
-</span>
-<span>
-  <iframe width="295" height="167" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRf5OMadCognq82nEphYVekGO14s381HpE4BdxuFQw9aXCrm9IS_d56rY3X4h6KTnFXk1fmvAW3ipWq/pubchart?oid=1314179572&amp;format=interactive"></iframe>
-</span>
-<span>
-  <iframe width="295" height="167" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRf5OMadCognq82nEphYVekGO14s381HpE4BdxuFQw9aXCrm9IS_d56rY3X4h6KTnFXk1fmvAW3ipWq/pubchart?oid=2139586513&amp;format=interactive"></iframe>
-</span>
-<span>
-  <iframe width="295" height="167" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRf5OMadCognq82nEphYVekGO14s381HpE4BdxuFQw9aXCrm9IS_d56rY3X4h6KTnFXk1fmvAW3ipWq/pubchart?oid=160538622&amp;format=interactive"></iframe>
-</span>
-<span>
-  <iframe width="295" height="167" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRf5OMadCognq82nEphYVekGO14s381HpE4BdxuFQw9aXCrm9IS_d56rY3X4h6KTnFXk1fmvAW3ipWq/pubchart?oid=1631059682&amp;format=interactive"></iframe>
-</span>
-<span>
-  <iframe width="295" height="167" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRf5OMadCognq82nEphYVekGO14s381HpE4BdxuFQw9aXCrm9IS_d56rY3X4h6KTnFXk1fmvAW3ipWq/pubchart?oid=1722368497&amp;format=interactive"></iframe>
-</span>
-<span>
-  <iframe width="295" height="167" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRf5OMadCognq82nEphYVekGO14s381HpE4BdxuFQw9aXCrm9IS_d56rY3X4h6KTnFXk1fmvAW3ipWq/pubchart?oid=596265151&amp;format=interactive"></iframe>
-</span>
-<span>
-  <iframe width="295" height="167" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRf5OMadCognq82nEphYVekGO14s381HpE4BdxuFQw9aXCrm9IS_d56rY3X4h6KTnFXk1fmvAW3ipWq/pubchart?oid=14950567&amp;format=interactive"></iframe>
-</span></div>
+</div>
   <div class="post__footer">
-     
+      <span><a class="tag" href="/tags/redirect/">redirect</a><a class="tag" href="/tags/redirecturl/">redirectUrl</a></span>
+
+ 
   </div>
 
   

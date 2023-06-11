@@ -19,6 +19,28 @@
     </item>
     
     <item>
+      <title>redirect</title>
+      <link>https://example.com/tags/redirect/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/redirect/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>redirectUrl</title>
+      <link>https://example.com/tags/redirecturl/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/redirecturl/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
       <title>demo</title>
       <link>https://example.com/tags/demo/</link>
       <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
@@ -101,28 +123,6 @@
       <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/tags/text/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>redirect</title>
-      <link>https://example.com/tags/redirect/</link>
-      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/tags/redirect/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>redirectUrl</title>
-      <link>https://example.com/tags/redirecturl/</link>
-      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/tags/redirecturl/</guid>
       
         <description></description>
       

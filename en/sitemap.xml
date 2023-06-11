@@ -31,6 +31,15 @@
                 href="https://example.com/post/"
                 />
   </url><url>
+    <loc>https://example.com/tags/redirect/</loc>
+    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/redirect_practice/</loc>
+    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/redirecturl/</loc>
+    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.com/tags/</loc>
     <lastmod>2023-06-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -127,13 +136,7 @@
     <loc>https://example.com/tags/text/</loc>
     <lastmod>2023-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/redirect/</loc>
-    <lastmod>2023-03-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.com/post/redirect/</loc>
-    <lastmod>2023-03-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/redirecturl/</loc>
     <lastmod>2023-03-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/privacy/</loc>
