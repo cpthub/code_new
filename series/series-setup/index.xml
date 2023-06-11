@@ -6,13 +6,13 @@
     <description>Recent content in series-setup on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/series/series-setup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/series/series-setup/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Series Part 1</title>
-      <link>https://example.com/post/2015-04-02-series-part-1/</link>
-      <pubDate>Thu, 02 Apr 2015 00:00:00 +0000</pubDate>
+      <title>Coding指令測試集-8</title>
+      <link>https://example.com/post/2023-06-10-coding%E6%8C%87%E4%BB%A4%E6%B8%AC%E8%A9%A6%E9%9B%86-8/</link>
+      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/2015-04-02-series-part-1/</guid>
+      <guid>https://example.com/post/2023-06-10-coding%E6%8C%87%E4%BB%A4%E6%B8%AC%E8%A9%A6%E9%9B%86-8/</guid>
       
         <description>A brief guide to how to setup series part 1</description>
       
@@ -25,7 +25,7 @@
       
       <guid>https://example.com/post/1996-02-17-%E8%AA%95%E7%94%9F%E6%97%A5/</guid>
       
-        <description>A brief guide to how to setup series part 2</description>
+        <description>版主生日</description>
       
     </item>
     

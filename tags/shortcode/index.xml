@@ -6,26 +6,15 @@
     <description>Recent content in shortcode on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/shortcode/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/shortcode/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>部落格創立</title>
-      <link>https://example.com/post/2023-04-02-%E9%83%A8%E8%90%BD%E6%A0%BC%E5%89%B5%E7%AB%8B/</link>
-      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      <title>Coding指令測試集-1</title>
+      <link>https://example.com/post/2023-06-10-coding%E6%8C%87%E4%BB%A4%E6%B8%AC%E8%A9%A6%E9%9B%86-1/</link>
+      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/2023-04-02-%E9%83%A8%E8%90%BD%E6%A0%BC%E5%89%B5%E7%AB%8B/</guid>
+      <guid>https://example.com/post/2023-06-10-coding%E6%8C%87%E4%BB%A4%E6%B8%AC%E8%A9%A6%E9%9B%86-1/</guid>
       
-        <description>The notice shortcode supports three different types of disclaimers. These are as following:</description>
-      
-    </item>
-    
-    <item>
-      <title>The Figure Shortcode</title>
-      <link>https://example.com/post/2023-03-31-the-figure-shortcode/</link>
-      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/post/2023-03-31-the-figure-shortcode/</guid>
-      
-        <description>Hugo has figure shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images.</description>
+        <description>&lt;p&gt;蒐集了一些之後可能md會用到的指令&lt;/p&gt;</description>
       
     </item>
     
