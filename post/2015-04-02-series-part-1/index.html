@@ -384,33 +384,25 @@
 
   </nav>
 </div></header>
-  <div
-    class="post 
+<div class="post 
       animated fadeInDown
-    "
-  >
+    ">
+  
+  <div class="post__content">
+    <h1>Series Part 1</h1>
     
-    <div class="post__content">
-      <h1>Series Part 1</h1>
-      
-        <ul class="post__meta">
-          <li class="post__meta-item">
-            <em class="fas fa-calendar-day post__meta-icon"></em>
-            <span class="post__meta-text"
-              >
-                
-                  2/4/2015
-                
-
-              
-            </span>
-          </li>
-          <li class="post__meta-item">
-            <em class="fas fa-stopwatch post__meta-icon"></em>
-            <span class="post__meta-text">One-minute read</span>
-          </li>
-        </ul>
-      <p>In this first part of the series we&rsquo;ll show you how to create a series</p>
+    <ul class="post__meta">
+      <li class="post__meta-item">
+        <em class="fas fa-calendar-day post__meta-icon"></em>
+        <span class="post__meta-text">  2/4/2015  
+        </span>
+      </li>
+      <li class="post__meta-item">
+        <em class="fas fa-stopwatch post__meta-icon"></em>
+        <span class="post__meta-text">One-minute read</span>
+      </li>
+    </ul>
+    <p>In this first part of the series we&rsquo;ll show you how to create a series</p>
 <p>As a first step we need to add series as a taxonomy. We can do this by editing the <code>config.toml</code>.<br>
 Note: We always need to define the existing taxonomies as well.</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-toml" data-lang="toml"><span class="line"><span class="cl"><span class="p">[</span><span class="nx">taxonomies</span><span class="p">]</span>
@@ -429,7 +421,26 @@ This end results should be a Front Matter that looks similar to this:</p>
 </span></span><span class="line"><span class="cl">series:
 </span></span><span class="line"><span class="cl">  <span class="k">-</span> series-setup
 </span></span><span class="line"><span class="cl">---
-</span></span></code></pre></div><p>Each individual post will now also show the other posts in the series under the <code>Posts in this Series</code> heading.</p>
+</span></span></code></pre></div><p>Each individual post will now also show the other posts in the series under the <code>Posts in this Series</code> heading.</p> &lt;p&gt;In this first part of the series we&amp;rsquo;ll show you how to create a series&lt;/p&gt;
+&lt;p&gt;As a first step we need to add series as a taxonomy. We can do this by editing the &lt;code&gt;config.toml&lt;/code&gt;.&lt;br&gt;
+Note: We always need to define the existing taxonomies as well.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;taxonomies&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nx&#34;&gt;category&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;categories&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nx&#34;&gt;series&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;series&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nx&#34;&gt;tag&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;tags&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Now we have the series enabled, the next thing we need to do is add the series name in the FrontMatter.
+For our example we&amp;rsquo;ll use this post and the next part.&lt;/p&gt;
+&lt;p&gt;As you can see we&amp;rsquo;ve set the series to &lt;code&gt;series-setup&lt;/code&gt;. We also do the same in the next parts of the series.&lt;br&gt;
+This end results should be a Front Matter that looks similar to this:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-md&#34; data-lang=&#34;md&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;author: Chepei Ting
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;title: Series Part 1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;date: 2021-08-14
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;description: A brief guide to how to setup series part 1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;series:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; series-setup
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Each individual post will now also show the other posts in the series under the &lt;code&gt;Posts in this Series&lt;/code&gt; heading.&lt;/p&gt;
 
 
 <h3>Posts in this series</h3>
@@ -441,14 +452,12 @@ This end results should be a Front Matter that looks similar to this:</p>
   
 </ul>
 </div>
-    <div class="post__footer">
-      
-
-      
-    </div>
-
-    
+  <div class="post__footer">
+     
   </div>
+
+  
+</div>
 
       </main>
     </div><footer class="footer footer__base">

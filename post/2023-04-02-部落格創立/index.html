@@ -405,33 +405,25 @@
 
   </nav>
 </div></header>
-  <div
-    class="post 
+<div class="post 
       animated fadeInDown
-    "
-  >
+    ">
+  
+  <div class="post__content">
+    <h1>部落格創立</h1>
     
-    <div class="post__content">
-      <h1>部落格創立</h1>
-      
-        <ul class="post__meta">
-          <li class="post__meta-item">
-            <em class="fas fa-calendar-day post__meta-icon"></em>
-            <span class="post__meta-text"
-              >
-                
-                  2/4/2023
-                
-
-              
-            </span>
-          </li>
-          <li class="post__meta-item">
-            <em class="fas fa-stopwatch post__meta-icon"></em>
-            <span class="post__meta-text">One-minute read</span>
-          </li>
-        </ul>
-      <p>The notice shortcode supports three different types of disclaimers. These are as following:</p>
+    <ul class="post__meta">
+      <li class="post__meta-item">
+        <em class="fas fa-calendar-day post__meta-icon"></em>
+        <span class="post__meta-text">  2/4/2023  
+        </span>
+      </li>
+      <li class="post__meta-item">
+        <em class="fas fa-stopwatch post__meta-icon"></em>
+        <span class="post__meta-text">One-minute read</span>
+      </li>
+    </ul>
+    <p>The notice shortcode supports three different types of disclaimers. These are as following:</p>
 <h2 id="info-notice">Info Notice</h2>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">{{% notice info %}}
 </span></span><span class="line"><span class="cl">Lorem Impsum..
@@ -482,19 +474,66 @@
   </div>
 </div>
 
+ &lt;p&gt;The notice shortcode supports three different types of disclaimers. These are as following:&lt;/p&gt;
+&lt;h2 id=&#34;info-notice&#34;&gt;Info Notice&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% notice info %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Lorem Impsum..
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% /notice %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div
+  class=&#34;notice&#34;
+&gt;
+  &lt;span
+    class=&#34;notice__title&#34;
+  &gt;Info&lt;/span&gt;&lt;div class=&#34;notice__content&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;update-notice&#34;&gt;Update Notice&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% notice update %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Lorem Impsum..
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% /notice %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div
+  class=&#34;notice
+    notice--update
+  &#34;
+&gt;
+  &lt;span
+    class=&#34;notice__title
+      notice__title--update
+    &#34;
+  &gt;Update&lt;/span&gt;&lt;div class=&#34;notice__content&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;warning-notice&#34;&gt;Warning Notice&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% notice warning %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Lorem Impsum..
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% /notice %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div
+  class=&#34;notice
+    notice--warning
+  &#34;
+&gt;
+  &lt;span
+    class=&#34;notice__title
+      notice__title--warning
+    &#34;
+  &gt;Warning&lt;/span&gt;&lt;div class=&#34;notice__content&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  &lt;/div&gt;
+&lt;/div&gt;
+
 </div>
-    <div class="post__footer">
-      
+  <div class="post__footer">
+      <span><a class="tag" href="/tags/demo/">demo</a><a class="tag" href="/tags/shortcode/">shortcode</a><a class="tag" href="/tags/baseball/">baseball</a></span>
 
-      
-        <span><a class="tag" href="/tags/demo/">demo</a><a class="tag" href="/tags/shortcode/">shortcode</a><a class="tag" href="/tags/baseball/">baseball</a></span>
-
-
-      
-    </div>
-
-    
+ 
   </div>
+
+  
+</div>
 
       </main>
     </div><footer class="footer footer__base">
