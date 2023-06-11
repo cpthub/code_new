@@ -9,10 +9,10 @@
     <lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/shortcode/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>部落格創立</title>
-      <link>https://example.com/post/blog-began/</link>
+      <link>https://example.com/post/2023-04-02-%E9%83%A8%E8%90%BD%E6%A0%BC%E5%89%B5%E7%AB%8B/</link>
       <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/blog-began/</guid>
+      <guid>https://example.com/post/2023-04-02-%E9%83%A8%E8%90%BD%E6%A0%BC%E5%89%B5%E7%AB%8B/</guid>
       
         <description>The notice shortcode supports three different types of disclaimers. These are as following:</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>The Figure Shortcode</title>
-      <link>https://example.com/post/figure-shortcode/</link>
+      <link>https://example.com/post/2023-03-31-the-figure-shortcode/</link>
       <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/figure-shortcode/</guid>
+      <guid>https://example.com/post/2023-03-31-the-figure-shortcode/</guid>
       
         <description>Hugo has figure shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images.</description>
       

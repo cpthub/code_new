@@ -6,13 +6,13 @@
     <description>Recent content in privacy on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rich Content</title>
-      <link>https://example.com/post/rich-content/</link>
-      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      <link>https://example.com/post/2023-03-24-a-brief-description-of-hugo-shortcodes/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/rich-content/</guid>
+      <guid>https://example.com/post/2023-03-24-a-brief-description-of-hugo-shortcodes/</guid>
       
         <description>A brief description of Hugo Shortcodes</description>
       

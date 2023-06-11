@@ -19,28 +19,6 @@
     </item>
     
     <item>
-      <title>redirect</title>
-      <link>https://example.com/tags/redirect/</link>
-      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/tags/redirect/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>redirectUrl</title>
-      <link>https://example.com/tags/redirecturl/</link>
-      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/tags/redirecturl/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
       <title>demo</title>
       <link>https://example.com/tags/demo/</link>
       <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
@@ -131,7 +109,7 @@
     <item>
       <title>privacy</title>
       <link>https://example.com/tags/privacy/</link>
-      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/tags/privacy/</guid>
       
@@ -142,9 +120,31 @@
     <item>
       <title>shortcodes</title>
       <link>https://example.com/tags/shortcodes/</link>
-      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/tags/shortcodes/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>redirect</title>
+      <link>https://example.com/tags/redirect/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/redirect/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>redirectUrl</title>
+      <link>https://example.com/tags/redirecturl/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/redirecturl/</guid>
       
         <description></description>
       

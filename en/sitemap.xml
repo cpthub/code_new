@@ -31,15 +31,6 @@
                 href="https://example.com/post/"
                 />
   </url><url>
-    <loc>https://example.com/tags/redirect/</loc>
-    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/post/redirect_practice/</loc>
-    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/redirecturl/</loc>
-    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.com/tags/</loc>
     <lastmod>2023-06-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -53,7 +44,7 @@
                 href="https://example.com/tags/"
                 />
   </url><url>
-    <loc>https://example.com/post/2023-06-11-%E8%B7%9F%E6%A3%92%E7%90%83%E6%9C%89%E9%97%9C%E7%9A%84%E8%A9%9E%E5%BD%99/</loc>
+    <loc>https://example.com/post/2023-06-11-%E9%96%92%E8%81%8A%E6%A3%92%E7%90%83-%E8%B7%9F%E6%A3%92%E7%90%83%E6%9C%89%E9%97%9C%E7%9A%84%E8%8B%B1%E6%96%87%E5%96%AE%E5%AD%97/</loc>
     <lastmod>2023-06-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/demo/</loc>
@@ -62,19 +53,19 @@
     <loc>https://example.com/tags/shortcode/</loc>
     <lastmod>2023-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/blog-began/</loc>
+    <loc>https://example.com/post/2023-04-02-%E9%83%A8%E8%90%BD%E6%A0%BC%E5%89%B5%E7%AB%8B/</loc>
     <lastmod>2023-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/emoji/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/emoji-support/</loc>
+    <loc>https://example.com/post/2023-04-01-emoji-support/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/figure-shortcode/</loc>
+    <loc>https://example.com/post/2023-03-31-the-figure-shortcode/</loc>
     <lastmod>2023-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/image-test/</loc>
+    <loc>https://example.com/post/2023-03-30-guide-to-thumbnails-in-hugo/</loc>
     <lastmod>2023-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/thumbnail/</loc>
@@ -102,7 +93,7 @@
     <loc>https://example.com/tags/markdown/</loc>
     <lastmod>2023-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/markdown-syntax/</loc>
+    <loc>https://example.com/post/2023-03-29-markdown-syntax-guide/</loc>
     <lastmod>2023-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/series/</loc>
@@ -127,32 +118,41 @@
     <loc>https://example.com/series/themes-guide/</loc>
     <lastmod>2023-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/math-typesetting/</loc>
+    <loc>https://example.com/post/2023-03-28-math-typesetting/</loc>
     <lastmod>2023-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/placeholder-text/</loc>
+    <loc>https://example.com/post/2023-03-27-placeholder-text/</loc>
     <lastmod>2023-03-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/text/</loc>
     <lastmod>2023-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/redirect/</loc>
-    <lastmod>2023-03-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.com/tags/privacy/</loc>
-    <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/rich-content/</loc>
-    <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    <loc>https://example.com/post/2023-03-24-a-brief-description-of-hugo-shortcodes/</loc>
+    <lastmod>2023-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/shortcodes/</loc>
-    <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/awards/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/certifications/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/redirect/</loc>
+    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/2020-06-11-redirect_practice/</loc>
+    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/redirecturl/</loc>
+    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/2020-03-25-redirect/</loc>
+    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
@@ -193,13 +193,13 @@
                 href="https://example.com/about/"
                 />
   </url><url>
-    <loc>https://example.com/post/series-part-1/</loc>
+    <loc>https://example.com/post/2015-04-02-series-part-1/</loc>
     <lastmod>2015-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/series/series-setup/</loc>
     <lastmod>2015-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/1996-02-17-birthday/</loc>
+    <loc>https://example.com/post/1996-02-17-%E8%AA%95%E7%94%9F%E6%97%A5/</loc>
     <lastmod>1996-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/imprint/</loc>

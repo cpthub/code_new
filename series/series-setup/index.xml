@@ -9,10 +9,10 @@
     <lastBuildDate>Thu, 02 Apr 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/series/series-setup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Series Part 1</title>
-      <link>https://example.com/post/series-part-1/</link>
+      <link>https://example.com/post/2015-04-02-series-part-1/</link>
       <pubDate>Thu, 02 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/series-part-1/</guid>
+      <guid>https://example.com/post/2015-04-02-series-part-1/</guid>
       
         <description>A brief guide to how to setup series part 1</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>誕生日</title>
-      <link>https://example.com/post/1996-02-17-birthday/</link>
+      <link>https://example.com/post/1996-02-17-%E8%AA%95%E7%94%9F%E6%97%A5/</link>
       <pubDate>Sat, 17 Feb 1996 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/1996-02-17-birthday/</guid>
+      <guid>https://example.com/post/1996-02-17-%E8%AA%95%E7%94%9F%E6%97%A5/</guid>
       
         <description>A brief guide to how to setup series part 2</description>
       

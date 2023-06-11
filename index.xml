@@ -8,22 +8,11 @@
     <language>en</language>
     <lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Redirect</title>
-      <link>https://example.com/post/redirect_practice/</link>
-      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/post/redirect_practice/</guid>
-      
-        <description>Usage of redirectUrl</description>
-      
-    </item>
-    
-    <item>
       <title>閒聊棒球-跟棒球有關的英文單字</title>
-      <link>https://example.com/post/2023-06-11-%E8%B7%9F%E6%A3%92%E7%90%83%E6%9C%89%E9%97%9C%E7%9A%84%E8%A9%9E%E5%BD%99/</link>
+      <link>https://example.com/post/2023-06-11-%E9%96%92%E8%81%8A%E6%A3%92%E7%90%83-%E8%B7%9F%E6%A3%92%E7%90%83%E6%9C%89%E9%97%9C%E7%9A%84%E8%8B%B1%E6%96%87%E5%96%AE%E5%AD%97/</link>
       <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/2023-06-11-%E8%B7%9F%E6%A3%92%E7%90%83%E6%9C%89%E9%97%9C%E7%9A%84%E8%A9%9E%E5%BD%99/</guid>
+      <guid>https://example.com/post/2023-06-11-%E9%96%92%E8%81%8A%E6%A3%92%E7%90%83-%E8%B7%9F%E6%A3%92%E7%90%83%E6%9C%89%E9%97%9C%E7%9A%84%E8%8B%B1%E6%96%87%E5%96%AE%E5%AD%97/</guid>
       
         <description>跟棒球有關的英文單字</description>
       
@@ -31,10 +20,10 @@
     
     <item>
       <title>部落格創立</title>
-      <link>https://example.com/post/blog-began/</link>
+      <link>https://example.com/post/2023-04-02-%E9%83%A8%E8%90%BD%E6%A0%BC%E5%89%B5%E7%AB%8B/</link>
       <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/blog-began/</guid>
+      <guid>https://example.com/post/2023-04-02-%E9%83%A8%E8%90%BD%E6%A0%BC%E5%89%B5%E7%AB%8B/</guid>
       
         <description>The notice shortcode supports three different types of disclaimers. These are as following:</description>
       
@@ -42,10 +31,10 @@
     
     <item>
       <title>Emoji Support</title>
-      <link>https://example.com/post/emoji-support/</link>
+      <link>https://example.com/post/2023-04-01-emoji-support/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/emoji-support/</guid>
+      <guid>https://example.com/post/2023-04-01-emoji-support/</guid>
       
         <description>Guide to emoji usage in Hugo</description>
       
@@ -53,10 +42,10 @@
     
     <item>
       <title>The Figure Shortcode</title>
-      <link>https://example.com/post/figure-shortcode/</link>
+      <link>https://example.com/post/2023-03-31-the-figure-shortcode/</link>
       <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/figure-shortcode/</guid>
+      <guid>https://example.com/post/2023-03-31-the-figure-shortcode/</guid>
       
         <description>Hugo has figure shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images.</description>
       
@@ -64,10 +53,10 @@
     
     <item>
       <title>Guide to Thumbnails in Hugo</title>
-      <link>https://example.com/post/image-test/</link>
+      <link>https://example.com/post/2023-03-30-guide-to-thumbnails-in-hugo/</link>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/image-test/</guid>
+      <guid>https://example.com/post/2023-03-30-guide-to-thumbnails-in-hugo/</guid>
       
         <description>Guide to Thumbnails in Hugo</description>
       
@@ -75,10 +64,10 @@
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://example.com/post/markdown-syntax/</link>
+      <link>https://example.com/post/2023-03-29-markdown-syntax-guide/</link>
       <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/markdown-syntax/</guid>
+      <guid>https://example.com/post/2023-03-29-markdown-syntax-guide/</guid>
       
         <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
       
@@ -86,10 +75,10 @@
     
     <item>
       <title>Math Typesetting</title>
-      <link>https://example.com/post/math-typesetting/</link>
+      <link>https://example.com/post/2023-03-28-math-typesetting/</link>
       <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/math-typesetting/</guid>
+      <guid>https://example.com/post/2023-03-28-math-typesetting/</guid>
       
         <description>A brief guide to setup KaTeX</description>
       
@@ -97,32 +86,21 @@
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://example.com/post/placeholder-text/</link>
+      <link>https://example.com/post/2023-03-27-placeholder-text/</link>
       <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/placeholder-text/</guid>
+      <guid>https://example.com/post/2023-03-27-placeholder-text/</guid>
       
         <description>Lorem Ipsum Dolor Si Amet</description>
       
     </item>
     
     <item>
-      <title>Redirect</title>
-      <link>https://example.com/post/redirect/</link>
-      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/post/redirect/</guid>
-      
-        <description>Usage of redirectUrl</description>
-      
-    </item>
-    
-    <item>
       <title>Rich Content</title>
-      <link>https://example.com/post/rich-content/</link>
-      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      <link>https://example.com/post/2023-03-24-a-brief-description-of-hugo-shortcodes/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/rich-content/</guid>
+      <guid>https://example.com/post/2023-03-24-a-brief-description-of-hugo-shortcodes/</guid>
       
         <description>A brief description of Hugo Shortcodes</description>
       
@@ -147,6 +125,28 @@
       <guid>https://example.com/certifications/</guid>
       
         <description>Hugo Certifications</description>
+      
+    </item>
+    
+    <item>
+      <title>Redirect_practice</title>
+      <link>https://example.com/post/2020-06-11-redirect_practice/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/2020-06-11-redirect_practice/</guid>
+      
+        <description>Usage of redirectUrl</description>
+      
+    </item>
+    
+    <item>
+      <title>Redirect</title>
+      <link>https://example.com/post/2020-03-25-redirect/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/2020-03-25-redirect/</guid>
+      
+        <description>Usage of redirectUrl</description>
       
     </item>
     
@@ -185,10 +185,10 @@
     
     <item>
       <title>Series Part 1</title>
-      <link>https://example.com/post/series-part-1/</link>
+      <link>https://example.com/post/2015-04-02-series-part-1/</link>
       <pubDate>Thu, 02 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/series-part-1/</guid>
+      <guid>https://example.com/post/2015-04-02-series-part-1/</guid>
       
         <description>A brief guide to how to setup series part 1</description>
       
@@ -196,10 +196,10 @@
     
     <item>
       <title>誕生日</title>
-      <link>https://example.com/post/1996-02-17-birthday/</link>
+      <link>https://example.com/post/1996-02-17-%E8%AA%95%E7%94%9F%E6%97%A5/</link>
       <pubDate>Sat, 17 Feb 1996 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/1996-02-17-birthday/</guid>
+      <guid>https://example.com/post/1996-02-17-%E8%AA%95%E7%94%9F%E6%97%A5/</guid>
       
         <description>A brief guide to how to setup series part 2</description>
       

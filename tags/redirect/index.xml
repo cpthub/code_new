@@ -6,13 +6,13 @@
     <description>Recent content in redirect on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/redirect/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/redirect/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Redirect</title>
-      <link>https://example.com/post/redirect_practice/</link>
-      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      <title>Redirect_practice</title>
+      <link>https://example.com/post/2020-06-11-redirect_practice/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/redirect_practice/</guid>
+      <guid>https://example.com/post/2020-06-11-redirect_practice/</guid>
       
         <description>Usage of redirectUrl</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Redirect</title>
-      <link>https://example.com/post/redirect/</link>
-      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
+      <link>https://example.com/post/2020-03-25-redirect/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/redirect/</guid>
+      <guid>https://example.com/post/2020-03-25-redirect/</guid>
       
         <description>Usage of redirectUrl</description>
       
