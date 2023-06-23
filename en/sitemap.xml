@@ -18,9 +18,6 @@
     <loc>https://example.com/tags/baseball/</loc>
     <lastmod>2023-06-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/2023-06-23-yahoo-fantasy%E6%95%B8%E6%93%9A/</loc>
-    <lastmod>2023-06-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.com/post/</loc>
     <lastmod>2023-06-23T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -46,6 +43,9 @@
                 hreflang="en"
                 href="https://example.com/tags/"
                 />
+  </url><url>
+    <loc>https://example.com/post/2023-06-23-yahoo-fantasy%E6%95%B8%E6%93%9A/</loc>
+    <lastmod>2023-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/post/2023-06-12-paper/</loc>
     <lastmod>2023-06-12T00:00:00+00:00</lastmod>
