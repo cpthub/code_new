@@ -6,24 +6,24 @@
     <description>Recent content in Series on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>series-setup</title>
-      <link>https://example.com/series/series-setup/</link>
-      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
+      <title>baseball_series</title>
+      <link>https://example.com/series/baseball_series/</link>
+      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/series/series-setup/</guid>
+      <guid>https://example.com/series/baseball_series/</guid>
       
         <description></description>
       
     </item>
     
     <item>
-      <title>Themes Guide</title>
-      <link>https://example.com/series/themes-guide/</link>
+      <title>series-setup</title>
+      <link>https://example.com/series/series-setup/</link>
       <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/series/themes-guide/</guid>
+      <guid>https://example.com/series/series-setup/</guid>
       
         <description></description>
       

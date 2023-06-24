@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>baseball on My blog</title>
-    <link>https://example.com/tags/baseball/</link>
-    <description>Recent content in baseball on My blog</description>
+    <title>baseball_series on My blog</title>
+    <link>https://example.com/series/baseball_series/</link>
+    <description>Recent content in baseball_series on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/baseball/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/series/baseball_series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MLB每日賽程(待解決)</title>
       <link>https://example.com/post/2023-06-24-mlb%E6%AF%8F%E6%97%A5%E8%B3%BD%E7%A8%8B%E5%BE%85%E8%A7%A3%E6%B1%BA/</link>
