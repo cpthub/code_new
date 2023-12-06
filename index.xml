@@ -118,6 +118,17 @@
     </item>
     
     <item>
+      <title>部落格創立</title>
+      <link>https://example.com/post/2024-06-09-%E9%83%A8%E8%90%BD%E6%A0%BC%E5%89%B5%E7%AB%8B/</link>
+      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/2024-06-09-%E9%83%A8%E8%90%BD%E6%A0%BC%E5%89%B5%E7%AB%8B/</guid>
+      
+        <description>The notice shortcode supports three different types of disclaimers. These are as following:</description>
+      
+    </item>
+    
+    <item>
       <title>Awards</title>
       <link>https://example.com/awards/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
@@ -179,7 +190,7 @@
       
       <guid>https://example.com/post/1997-02-17-%E8%AA%95%E7%94%9F%E6%97%A5/</guid>
       
-        <description>版主生日</description>
+        <description>版主生日!!!!</description>
       
     </item>
     
