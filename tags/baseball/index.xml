@@ -6,7 +6,18 @@
     <description>Recent content in baseball on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/baseball/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/baseball/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023-12-10 大巨蛋參訪</title>
+      <link>https://example.com/post/2023-12-10-%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%8F%83%E8%A8%AA/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/2023-12-10-%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%8F%83%E8%A8%AA/</guid>
+      
+        <description>照片</description>
+      
+    </item>
+    
     <item>
       <title>MLB每日賽程(待解決)</title>
       <link>https://example.com/post/2023-06-25mlb%E6%AF%8F%E6%97%A5%E8%B3%BD%E7%A8%8B%E5%BE%85%E8%A7%A3%E6%B1%BA/</link>
