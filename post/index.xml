@@ -6,26 +6,26 @@
     <description>Recent content in Posts on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MLB每日賽程(待解決)</title>
-      <link>https://example.com/post/2023-06-24-mlb%E6%AF%8F%E6%97%A5%E8%B3%BD%E7%A8%8B%E5%BE%85%E8%A7%A3%E6%B1%BA/</link>
-      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+      <link>https://example.com/post/2023-06-25mlb%E6%AF%8F%E6%97%A5%E8%B3%BD%E7%A8%8B%E5%BE%85%E8%A7%A3%E6%B1%BA/</link>
+      <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/2023-06-24-mlb%E6%AF%8F%E6%97%A5%E8%B3%BD%E7%A8%8B%E5%BE%85%E8%A7%A3%E6%B1%BA/</guid>
+      <guid>https://example.com/post/2023-06-25mlb%E6%AF%8F%E6%97%A5%E8%B3%BD%E7%A8%8B%E5%BE%85%E8%A7%A3%E6%B1%BA/</guid>
       
         <description>MLB每日賽程</description>
       
     </item>
     
     <item>
-      <title>Yahoo Fantasy及時對戰分數</title>
-      <link>https://example.com/post/2023-06-23-yahoo-fantasy%E5%8F%8A%E6%99%82%E5%B0%8D%E6%88%B0%E5%88%86%E6%95%B8/</link>
-      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+      <title>Yahoo Fantasy球員面對左右投手打擊分析</title>
+      <link>https://example.com/post/2023-06-24-yahoo-fantasy%E7%90%83%E5%93%A1%E9%9D%A2%E5%B0%8D%E5%B7%A6%E5%8F%B3%E6%8A%95%E6%89%8B%E6%89%93%E6%93%8A%E5%88%86%E6%9E%90/</link>
+      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/2023-06-23-yahoo-fantasy%E5%8F%8A%E6%99%82%E5%B0%8D%E6%88%B0%E5%88%86%E6%95%B8/</guid>
+      <guid>https://example.com/post/2023-06-24-yahoo-fantasy%E7%90%83%E5%93%A1%E9%9D%A2%E5%B0%8D%E5%B7%A6%E5%8F%B3%E6%8A%95%E6%89%8B%E6%89%93%E6%93%8A%E5%88%86%E6%9E%90/</guid>
       
-        <description>Yahoo Fantasy及時對戰分數</description>
+        <description>Yahoo Fantasy球員面對左右投手打擊分析</description>
       
     </item>
     
@@ -41,13 +41,13 @@
     </item>
     
     <item>
-      <title>Yahoo Fantasy球員面對左右投手打擊分析</title>
-      <link>https://example.com/post/2023-06-23-yahoo-fantasy%E7%90%83%E5%93%A1%E9%9D%A2%E5%B0%8D%E5%B7%A6%E5%8F%B3%E6%8A%95%E6%89%8B%E6%89%93%E6%93%8A%E5%88%86%E6%9E%90/</link>
-      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+      <title>Yahoo Fantasy及時對戰分數</title>
+      <link>https://example.com/post/2023-06-22-yahoo-fantasy%E5%8F%8A%E6%99%82%E5%B0%8D%E6%88%B0%E5%88%86%E6%95%B8/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/2023-06-23-yahoo-fantasy%E7%90%83%E5%93%A1%E9%9D%A2%E5%B0%8D%E5%B7%A6%E5%8F%B3%E6%8A%95%E6%89%8B%E6%89%93%E6%93%8A%E5%88%86%E6%9E%90/</guid>
+      <guid>https://example.com/post/2023-06-22-yahoo-fantasy%E5%8F%8A%E6%99%82%E5%B0%8D%E6%88%B0%E5%88%86%E6%95%B8/</guid>
       
-        <description>Yahoo Fantasy球員面對左右投手打擊分析</description>
+        <description>Yahoo Fantasy及時對戰分數</description>
       
     </item>
     
@@ -112,6 +112,72 @@
       <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/post/2023-06-09-%E9%83%A8%E8%90%BD%E6%A0%BC%E5%89%B5%E7%AB%8B/</guid>
+      
+        <description>&lt;p&gt;此部落格的建立初衷，為程式語言的練習(如python, R, HTML語法等)，以及分享棒球相關的小知識&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>日本東京行 DAY6</title>
+      <link>https://example.com/post/2023-03-27-%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E8%A1%8C-day6/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/2023-03-27-%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E8%A1%8C-day6/</guid>
+      
+        <description>&lt;p&gt;此部落格的建立初衷，為程式語言的練習(如python, R, HTML語法等)，以及分享棒球相關的小知識&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>日本東京行 DAY5</title>
+      <link>https://example.com/post/2023-03-26-%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E8%A1%8C-day5/</link>
+      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/2023-03-26-%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E8%A1%8C-day5/</guid>
+      
+        <description>&lt;p&gt;此部落格的建立初衷，為程式語言的練習(如python, R, HTML語法等)，以及分享棒球相關的小知識&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>日本東京行 DAY4</title>
+      <link>https://example.com/post/2023-03-25-%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E8%A1%8C-day4/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/2023-03-25-%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E8%A1%8C-day4/</guid>
+      
+        <description>&lt;p&gt;此部落格的建立初衷，為程式語言的練習(如python, R, HTML語法等)，以及分享棒球相關的小知識&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>日本東京行 DAY3</title>
+      <link>https://example.com/post/2023-03-24-%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E8%A1%8C-day3/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/2023-03-24-%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E8%A1%8C-day3/</guid>
+      
+        <description>&lt;p&gt;此部落格的建立初衷，為程式語言的練習(如python, R, HTML語法等)，以及分享棒球相關的小知識&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>日本東京行 DAY2</title>
+      <link>https://example.com/post/2023-03-23-%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E8%A1%8C-day2/</link>
+      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/2023-03-23-%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E8%A1%8C-day2/</guid>
+      
+        <description>&lt;p&gt;此部落格的建立初衷，為程式語言的練習(如python, R, HTML語法等)，以及分享棒球相關的小知識&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>日本東京行 DAY1</title>
+      <link>https://example.com/post/2023-03-22-%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E8%A1%8C-day1/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/2023-03-22-%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E8%A1%8C-day1/</guid>
       
         <description>&lt;p&gt;此部落格的建立初衷，為程式語言的練習(如python, R, HTML語法等)，以及分享棒球相關的小知識&lt;/p&gt;</description>
       

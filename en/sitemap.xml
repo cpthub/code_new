@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2023-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -16,16 +16,16 @@
                 />
   </url><url>
     <loc>https://example.com/tags/baseball/</loc>
-    <lastmod>2023-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/series/baseball_series/</loc>
-    <lastmod>2023-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/2023-06-24-mlb%E6%AF%8F%E6%97%A5%E8%B3%BD%E7%A8%8B%E5%BE%85%E8%A7%A3%E6%B1%BA/</loc>
-    <lastmod>2023-06-24T00:00:00+00:00</lastmod>
+    <loc>https://example.com/post/2023-06-25mlb%E6%AF%8F%E6%97%A5%E8%B3%BD%E7%A8%8B%E5%BE%85%E8%A7%A3%E6%B1%BA/</loc>
+    <lastmod>2023-06-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/post/</loc>
-    <lastmod>2023-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -38,7 +38,7 @@
                 />
   </url><url>
     <loc>https://example.com/series/</loc>
-    <lastmod>2023-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -51,7 +51,7 @@
                 />
   </url><url>
     <loc>https://example.com/tags/</loc>
-    <lastmod>2023-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -63,14 +63,14 @@
                 href="https://example.com/tags/"
                 />
   </url><url>
-    <loc>https://example.com/post/2023-06-23-yahoo-fantasy%E5%8F%8A%E6%99%82%E5%B0%8D%E6%88%B0%E5%88%86%E6%95%B8/</loc>
-    <lastmod>2023-06-23T00:00:00+00:00</lastmod>
+    <loc>https://example.com/post/2023-06-24-yahoo-fantasy%E7%90%83%E5%93%A1%E9%9D%A2%E5%B0%8D%E5%B7%A6%E5%8F%B3%E6%8A%95%E6%89%8B%E6%89%93%E6%93%8A%E5%88%86%E6%9E%90/</loc>
+    <lastmod>2023-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/post/2023-06-23-yahoo-fantasy%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90/</loc>
     <lastmod>2023-06-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/2023-06-23-yahoo-fantasy%E7%90%83%E5%93%A1%E9%9D%A2%E5%B0%8D%E5%B7%A6%E5%8F%B3%E6%8A%95%E6%89%8B%E6%89%93%E6%93%8A%E5%88%86%E6%9E%90/</loc>
-    <lastmod>2023-06-23T00:00:00+00:00</lastmod>
+    <loc>https://example.com/post/2023-06-22-yahoo-fantasy%E5%8F%8A%E6%99%82%E5%B0%8D%E6%88%B0%E5%88%86%E6%95%B8/</loc>
+    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/academy/</loc>
     <lastmod>2023-06-12T00:00:00+00:00</lastmod>
@@ -147,6 +147,24 @@
   </url><url>
     <loc>https://example.com/post/2023-06-09-%E9%83%A8%E8%90%BD%E6%A0%BC%E5%89%B5%E7%AB%8B/</loc>
     <lastmod>2023-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/2023-03-27-%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E8%A1%8C-day6/</loc>
+    <lastmod>2023-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/2023-03-26-%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E8%A1%8C-day5/</loc>
+    <lastmod>2023-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/2023-03-25-%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E8%A1%8C-day4/</loc>
+    <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/2023-03-24-%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E8%A1%8C-day3/</loc>
+    <lastmod>2023-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/2023-03-23-%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E8%A1%8C-day2/</loc>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/2023-03-22-%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E8%A1%8C-day1/</loc>
+    <lastmod>2023-03-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/awards/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
