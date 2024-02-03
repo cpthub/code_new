@@ -19,6 +19,17 @@
     </item>
     
     <item>
+      <title>photo</title>
+      <link>https://example.com/series/photo/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/series/photo/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
       <title>series-setup</title>
       <link>https://example.com/series/series-setup/</link>
       <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>

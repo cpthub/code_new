@@ -24,6 +24,9 @@
     <loc>https://example.com/series/baseball_series/</loc>
     <lastmod>2023-12-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://example.com/series/photo/</loc>
+    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.com/post/</loc>
     <lastmod>2023-12-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -213,6 +216,12 @@
                 hreflang="en"
                 href="https://example.com/about/"
                 />
+  </url><url>
+    <loc>https://example.com/post/2019-02-%E7%B4%90%E8%A5%BF%E8%98%AD%E8%87%AA%E7%94%B1%E8%A1%8C/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/photo/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/post/1997-02-17-%E8%AA%95%E7%94%9F%E6%97%A5/</loc>
     <lastmod>1996-02-17T00:00:00+00:00</lastmod>

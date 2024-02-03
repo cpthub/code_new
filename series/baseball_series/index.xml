@@ -73,5 +73,16 @@
       
     </item>
     
+    <item>
+      <title>2019-02-01 紐西蘭自由行</title>
+      <link>https://example.com/post/2019-02-%E7%B4%90%E8%A5%BF%E8%98%AD%E8%87%AA%E7%94%B1%E8%A1%8C/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/2019-02-%E7%B4%90%E8%A5%BF%E8%98%AD%E8%87%AA%E7%94%B1%E8%A1%8C/</guid>
+      
+        <description>照片</description>
+      
+    </item>
+    
   </channel>
 </rss>
